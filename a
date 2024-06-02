@@ -1,0 +1,24 @@
+[33mcommit ce5a7d2ae1acc2ca601c1f541a6b704f283e7dbe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Victor Lopez <victorandreslopez314@gmail.com>
+Date:   Fri May 31 19:03:20 2024 -0500
+
+    Add Description of dish
+
+[33mcommit fc7df9eec509de5879e4c2d43732de912c4a771d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Victor Lopez <victorandreslopez314@gmail.com>
+Date:   Fri May 31 18:42:13 2024 -0500
+
+    Add index.html and japanese_curry.html
+    
+    index.html will be the landing page and will direct
+    to the other recipes which are held under a recipe folder
+    Japanese.html was also linked to index.html
+
+[33mcommit cda90c0fc65e24591d7d289647dd6d3244269625[m
+Author: Victor Lopez <victorandreslopez314@gmail.com>
+Date:   Fri May 31 18:25:11 2024 -0500
+
+    Add README.md file
+    
+    README.md file contains the purpose of the project
+    and explains the skills I will develop from this project
