@@ -1,7 +1,5 @@
 body {
     margin: 0;
-    max-width: 100%;
-    max-height: 100%;
     text-align: left;
     color: rgb(0, 0, 0);
     background-color: white;
@@ -24,23 +22,24 @@ body {
 }
 
 .container{
-    margin: 5%;
+    margin: 3% 2%;
     text-align: center;
     align-items: left;
     justify-content: left;
     color: black;
     font-family: "Archivo Black", "Roboto";
-    display: flex;
-    width: 30%;
-    height: auto;
-    text-decoration: none;
+    display: block;
+    width: auto;
 }
-.container a:link, a:visited{
+
+a:link, 
+a:visited{
     text-decoration: none;
     color: black;
     font-size: 1.125rem;
 }
-.container a:hover{
+
+a:hover{
     color: black;
     text-decoration-thickness: 2px;
     text-decoration-line: underline;
@@ -48,16 +47,10 @@ body {
     font-size: 1.125rem;
 }
 
-.container img{
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    margin: 0 auto;
-    display: block;
-}
 
-.row{
+.gallery{
     align-items: left;
     justify-content: left;
     display: flex;
+    flex-wrap: wrap;
 }
