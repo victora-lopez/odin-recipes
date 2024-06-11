@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+.heading{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(24, 24, 148);
+    font-family: "Archivo Black", Roboto;
+    display: flex;
+    font-size: 15px;
+}
+
+.header-img{
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.container{
+    margin: 50px;
+    text-align: center;
+    align-items: left;
+    justify-content: left;
+    color: black;
+    font-family: "Archivo Black", Roboto;
+    display: flex;
+    font-size: 18px;
+    width: 250px;
+    height: auto;
+}
