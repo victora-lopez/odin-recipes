@@ -22,10 +22,8 @@ body {
 }
 
 .container{
-    margin: 3% 2%;
+    margin: 50px auto;
     text-align: center;
-    align-items: left;
-    justify-content: left;
     color: black;
     font-family: "Archivo Black", "Roboto";
     display: block;
@@ -49,8 +47,6 @@ a:hover{
 
 
 .gallery{
-    align-items: left;
-    justify-content: left;
     display: flex;
-    flex-wrap: wrap;
+
 }
