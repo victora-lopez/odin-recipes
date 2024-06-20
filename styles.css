@@ -48,5 +48,5 @@ a:hover{
 
 .gallery{
     display: flex;
-
+    flex-wrap: wrap;
 }
