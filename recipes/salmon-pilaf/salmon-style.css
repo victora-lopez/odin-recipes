@@ -20,7 +20,10 @@ h1{
     display: flex;
     height: 300px;
     width: 100%;
+<<<<<<< HEAD
     margin-top: 20px;
+=======
+>>>>>>> 400e38c8819d8ff328bfeaa4cb86eee87a54dc4d
 }
 
 .box{
@@ -58,9 +61,16 @@ ul{
     color: #f89554;
 }
 li{
+<<<<<<< HEAD
     margin-bottom: 20px;
 }
 p{
     color: #000712;
     display: inline;
+=======
+    margin-bottom: 7.5px;
+}
+li span{
+    color: #000712;
+>>>>>>> 400e38c8819d8ff328bfeaa4cb86eee87a54dc4d
 }
